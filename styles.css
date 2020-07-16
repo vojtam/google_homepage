@@ -144,7 +144,7 @@ html, body {margin: 0; height: 100%; overflow: hidden}
     align-items: center;
     width: 530px;
     height: 40px;
-    border-radius: 11px;
+    border-radius: 20px;
     border: rgba(40, 40, 40, 0.14) 1px solid;
 }
 
@@ -163,7 +163,7 @@ html, body {margin: 0; height: 100%; overflow: hidden}
 #microphone {
     width: 17px;
     position: relative;
-    right: -25px;
+    right: -15px;
 }
 
 #lupa {
